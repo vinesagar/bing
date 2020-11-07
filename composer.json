@@ -5,7 +5,8 @@
     "require": {
         "guzzlehttp/guzzle": "^7.0",
         "symfony/dom-crawler": "^4",
-        "symfony/css-selector": "^4"
+        "symfony/css-selector": "^4",
+        "buchin/bing": "dev-master"
     },
     "require-dev": {
         "kahlan/kahlan": "^3.1"
@@ -15,6 +16,12 @@
         {
             "name": "Mochammad Masbuchin",
             "email": "buchin@dropsugar.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/vinesagar/bing.git"
         }
     ],
     "minimum-stability": "dev",
