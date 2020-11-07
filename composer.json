@@ -1,5 +1,5 @@
 {
-    "name": "buchin/bing",
+    "name": "vinesagar/bing",
     "description": "Bing scraper: Text, Image, Video",
     "type": "library",
     "require": {
