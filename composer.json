@@ -1,11 +1,11 @@
 {
-    "name": "vinesagar/bing",
+    "name": "buchin/bing",
     "description": "Bing scraper: Text, Image, Video",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
-        "symfony/dom-crawler": "^4.0",
-        "symfony/css-selector": "^4.0",
+        "symfony/dom-crawler": "^4",
+        "symfony/css-selector": "^4"
     },
     "require-dev": {
         "kahlan/kahlan": "^3.1"
